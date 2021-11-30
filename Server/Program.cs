@@ -22,5 +22,6 @@ namespace Server
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+            
     }
 }
